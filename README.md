@@ -14,7 +14,7 @@ Update variables at the top of the script:
 USERNAME="developer01"
 USERGROUP="devteam"
 ```
-ذذذ
+
 ## Then run:
 ```bash
 chmod +x user_management.sh
