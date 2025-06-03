@@ -13,11 +13,13 @@ Update variables at the top of the script:
 ```bash
 USERNAME="developer01"
 USERGROUP="devteam"
-
+```
+ذذذ
 ## Then run:
 ```bash
 chmod +x user_management.sh
 sudo ./user_management.sh
+```
 
 ## Permissions Logic
 * Owner: Full access (read, write, execute)
